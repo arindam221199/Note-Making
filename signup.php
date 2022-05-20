@@ -49,7 +49,7 @@ if(isset($_POST['signup']))
 <body>
   <section id="content" class="m-t-lg wrapper-md animated fadeInDown">
     <div class="container aside-xxl">
-      <a class="navbar-brand block" href="signup.php">Notebook</a>
+      <a class="navbar-brand block" href="signup.php">Notebooks</a>
       <section class="panel panel-default m-t-lg bg-white">
         <header class="panel-heading text-center">
           <strong>Sign up</strong>
